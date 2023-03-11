@@ -27,7 +27,7 @@ Author: Neo <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
 Package: me.autotouch.autotouch
-Version: 1.0.0-1
+Version: 6.1.8-2k
 Section: Tweaks
 Maintainer: Neo <reposithree@gmail.com>
 Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
