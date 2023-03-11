@@ -21,7 +21,7 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.ienthach.xoainfo.deb
 Size: 57446688
 MD5sum: f7c96e845451309b8aaa94542405792f
-Description: This is a sample old package. Firmware should be lower than 7.0
+Description: This is a sample old package. Firmware should be lower than 7
 Name: XoaInfo
 Author: Neo <reposithree@gmail.com>
 Depiction: https://neoyira.github.io/depictions/?p=com.ienthach.xoainfo.deb
