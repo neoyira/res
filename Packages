@@ -5,12 +5,12 @@ Maintainer: Neo <reposithree@gmail.com>
 Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
 Architecture: iphoneos-arm
 Filename: ./debs/com.ienthach.changeappleid.deb
-Size: 854
+Size: 2079254
 MD5sum: 8901d5b409b40610103478b445c8ed98
 Description: This is a sample new package. Firmware should be greater than 7.0
 Name: ChangeAppleID
 Author: Neo <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Depiction: https://neoyira.github.io/depictions/?p=com.ienthach.changeappleid
 
 Package: com.ienthach.xoainfo
 Version: 1.0.0-1
@@ -19,24 +19,24 @@ Maintainer: Neo <reposithree@gmail.com>
 Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
 Architecture: iphoneos-arm
 Filename: ./debs/com.ienthach.xoainfo.deb
-Size: 860
+Size: 5723900
 MD5sum: e74999735be996b39c4719194f1b1e36
 Description: This is a sample old package. Firmware should be lower than 7.0
 Name: XoaInfo
 Author: Neo <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Depiction: https://neoyira.github.io/depictions/?p=com.ienthach.xoainfo.deb
 
 Package: me.autotouch.autotouch
-Version: 6.1.8-2k
+Version: 1.0.0-1
 Section: Tweaks
 Maintainer: Neo <reposithree@gmail.com>
 Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
 Architecture: iphoneos-arm
 Filename: ./debs/me.autotouch.autotouch.deb
-Size: 860
+Size: 2646256
 MD5sum: c16716bbc1d4af016e5b7c30889574bf
 Description: This is a sample old package. Firmware should be lower than 7.0
 Name: AutoTouch
 Author: Neo <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Depiction: https://neoyira.github.io/depictions/?p=me.autotouch.autotouch.deb
 
