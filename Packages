@@ -8,7 +8,7 @@ Filename: ./debs/com.ienthach.changeappleid.deb
 Size: 854
 MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
 Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
+Name: Change Apple ID
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
 
@@ -22,7 +22,7 @@ Filename: ./debs/com.ienthach.xoainfo.deb
 Size: 860
 MD5sum: 8c606f0c05217aa2a20949091fe516f0
 Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
+Name: XoaInfo
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
@@ -36,7 +36,7 @@ Filename: ./debs/me.autotouch.autotouch.deb
 Size: 860
 MD5sum: 8c606f0c05217aa2a20949091fe516f0
 Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
+Name: Autotouch
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
