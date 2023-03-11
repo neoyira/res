@@ -19,7 +19,7 @@ Maintainer: Neo <reposithree@gmail.com>
 Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
 Architecture: iphoneos-arm
 Filename: ./debs/com.ienthach.xoainfo.deb
-Size: 57446688
+Size: 5744150
 MD5sum: f7c96e845451309b8aaa94542405792f
 Description: This is a sample old package. Firmware should be lower than 7
 Name: XoaInfo
