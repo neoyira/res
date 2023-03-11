@@ -1,42 +1,42 @@
 Package: com.ienthach.changeappleid
 Version: 2.0.0-1
 Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Maintainer: Neo <reposithree@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
 Architecture: iphoneos-arm
 Filename: ./debs/com.ienthach.changeappleid.deb
 Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+MD5sum: 8901d5b409b40610103478b445c8ed98
 Description: This is a sample new package. Firmware should be greater than 7.0
-Name: Change Apple ID
-Author: Reposi3 <reposithree@gmail.com>
+Name: ChangeAppleID
+Author: Neo <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
 
 Package: com.ienthach.xoainfo
 Version: 1.0.0-1
 Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
+Maintainer: Neo <reposithree@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
 Architecture: iphoneos-arm
 Filename: ./debs/com.ienthach.xoainfo.deb
 Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
+MD5sum: e74999735be996b39c4719194f1b1e36
 Description: This is a sample old package. Firmware should be lower than 7.0
 Name: XoaInfo
-Author: Reposi3 <reposithree@gmail.com>
+Author: Neo <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
 Package: me.autotouch.autotouch
 Version: 1.0.0-1
 Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
+Maintainer: Neo <reposithree@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
 Architecture: iphoneos-arm
 Filename: ./debs/me.autotouch.autotouch.deb
 Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
+MD5sum: c16716bbc1d4af016e5b7c30889574bf
 Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Autotouch
-Author: Reposi3 <reposithree@gmail.com>
+Name: AutoTouch
+Author: Neo <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
