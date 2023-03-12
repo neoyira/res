@@ -16,7 +16,7 @@ Package: com.ienthach.xoainfo
 Version: 2.0.0
 Section: Utilities
 Maintainer: Neo <reposithree@gmail.com>
-Depends: firmware (>= 7.0), mobilesubstrate, com.rpetrich.rocketbootstrap, curl, openssh
+Depends: firmware (>= 7.0), mobilesubstrate, com.rpetrich.rocketbootstrap, curl, openssh, com.ienthach.changeappleid, me.autotouch.autotouch
 Architecture: iphoneos-arm
 Filename: ./debs/com.ienthach.xoainfo.deb
 Size: 5744150
