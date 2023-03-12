@@ -33,7 +33,7 @@ Maintainer: Neo <reposithree@gmail.com>
 Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
 Architecture: iphoneos-arm
 Filename: ./debs/me.autotouch.autotouch.deb
-Size: 26464766
+Size: 26461766
 MD5sum: c16716bbc1d4af016e5b7c30889574bf
 Description: This is a sample old package. Firmware should be lower than 7.0
 Name: AutoTouch
